@@ -1,6 +1,3 @@
-import networkx as nx
-
-
 def graph_types (G):
     graph_types = []
 
